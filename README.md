@@ -1,4 +1,4 @@
-![Fikri Amrullah](img/github-head-banner.png)
+![Fikri Amrullah](img/github-header-banner.png)
 
 # 💫 About Me:
 
